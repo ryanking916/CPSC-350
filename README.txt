@@ -1,7 +1,6 @@
 CPSC 350 Assignmnet 5: The GOAT
 Ryan King
 Student ID: 2385162
-Partner: Will Curtiss (Stevens Class CPSC 350-01)
 
 When program is ran, you have the options to enter student and faculty data
 delete student and faculty data, display data, change a student's advisor given the student 
