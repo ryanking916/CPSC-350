@@ -1,23 +1,28 @@
 
+When program is ran, you have the options to enter student and faculty data
+delete student and faculty data, display data, change a student's advisor given the student 
+and the new faculty id, and remove an advisee from a faculty member given the ids.
 
-# Atlanta Hawks Assessment Submission
-This project encompasses an in-depth analysis of NBA draft data spanning from 1989 to 2021. The outcomes will be presented through informative tables, visuals, and thorough descriptions.
+I really struggled trying to understand how binary search trees worked
+at the start of this project and how to implement the scape goat tree.
+This project took a lot of time.
 
 ## Identifying Information
 * Name: Ryan King
 * Email: ryanhking9@gmail.com
-* Date: June 3, 2023
+* Course: CPSC 350 Data Structures & Algorithms
 
 ## Source Files
-* ATL Hawks Assessment Final Report.pdf
-* ATL_Hawks_Assessment_Code.ipynb
-* Resume_Ryan_King.pdf
+* 
+
+## Build and Run Commands
+* g++ -o test.o *.cpp
+* ./test.o
 
 ## References
-* https://pypi.org/project/tabulate/
-* https://www.datacamp.com/tutorial/pandas-apply
-* https://www.datacamp.com/tutorial/role-underscore-python
-* https://www.geeksforgeeks.org/pandas-dataframe-iterrows-function-in-python/
+* Used GeeksForGeeks to figure out how to get depth of Node
+* Used GeeksForGeeks to help with implementation of scapegoat tree
+* Used stackoverflow.com for help with appending data to file
 
 ## Known Errors
 * N/A
