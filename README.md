@@ -1,7 +1,5 @@
 # University Database
-When program is ran, you have the options to enter student and faculty data
-delete student and faculty data, display data, change a student's advisor given the student 
-and the new faculty id, and remove an advisee from a faculty member given the ids.
+This program provides users with a range of functionalities within a university database. It allows users to input and manage student and faculty data, delete records, display information, update a student's advisor by providing the student's ID along with the new faculty ID, and remove an advisee from a faculty member using their respective IDs.
 
 ## Identifying Information
 * Name: Ryan King
