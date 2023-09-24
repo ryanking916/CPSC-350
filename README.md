@@ -14,7 +14,7 @@ This is accomplished through Binary Search Trees and List Stacks. Every student 
 * Name: Ryan King
 * Email: Ryanhking9@gmail.com
 * Course: CPSC 350 - Data Structures
-* Date: Fall 2021
+* Date: Fall 2022
 * Assignment: University Database
 
 ## Source Files
